@@ -1,0 +1,16 @@
+C:\Users\jean.s\Desktop\cadastroPessoa\bin\Debug\net5.0\cadastroPessoa.exe
+C:\Users\jean.s\Desktop\cadastroPessoa\bin\Debug\net5.0\cadastroPessoa.deps.json
+C:\Users\jean.s\Desktop\cadastroPessoa\bin\Debug\net5.0\cadastroPessoa.runtimeconfig.json
+C:\Users\jean.s\Desktop\cadastroPessoa\bin\Debug\net5.0\cadastroPessoa.runtimeconfig.dev.json
+C:\Users\jean.s\Desktop\cadastroPessoa\bin\Debug\net5.0\cadastroPessoa.dll
+C:\Users\jean.s\Desktop\cadastroPessoa\bin\Debug\net5.0\ref\cadastroPessoa.dll
+C:\Users\jean.s\Desktop\cadastroPessoa\bin\Debug\net5.0\cadastroPessoa.pdb
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\cadastroPessoa.csproj.AssemblyReference.cache
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\cadastroPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\cadastroPessoa.AssemblyInfoInputs.cache
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\cadastroPessoa.AssemblyInfo.cs
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\cadastroPessoa.csproj.CoreCompileInputs.cache
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\cadastroPessoa.dll
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\ref\cadastroPessoa.dll
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\cadastroPessoa.pdb
+C:\Users\jean.s\Desktop\cadastroPessoa\obj\Debug\net5.0\cadastroPessoa.genruntimeconfig.cache
